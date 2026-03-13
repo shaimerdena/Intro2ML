@@ -1,0 +1,10 @@
+# Ignore Python bytecode files and cache directories
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+data/
